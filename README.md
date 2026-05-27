@@ -21,7 +21,7 @@ powerplay dominance is the real match differentiator.
 ## Files
 - `IPL_Crunch_Analysis_2020_2024.ipynb` → Full analysis notebook
 - `ipl_cleaned.csv` → Cleaned dataset
-- `charts/` → All visualization outputs
+- `charts` → All visualization outputs
 
 ## Key Results
 | Metric | Value |
