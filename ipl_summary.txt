@@ -1,0 +1,48 @@
+
+=============================================================
+                  IPL DATA ANALYSIS
+       Seasons Covered: 2020-21 to 2024 | 333 Matches
+=============================================================
+
+QUESTION 1: Does winning the toss help?
+-----------------------------------------
+Short answer: No — not really.
+Toss winners won only 48% of matches, meaning teams that 
+LOST the toss actually won slightly more often (52%).
+Even captains who chose to field first (the smarter choice, 
+done 71% of the time) won only 49.8% of their matches.
+The toss is essentially a coin flip with no real advantage.
+
+QUESTION 2: Which phase matters most for winning?
+-------------------------------------------------
+Short answer: The Powerplay (Overs 1-6).
+Winning teams average 53.8 runs in powerplay vs 52.1 
+for losing teams — the biggest gap across all phases.
+The most surprising finding: losing teams actually score 
+MORE in death overs (50.1) than winning teams (49.2).
+This means slogging at the end doesn't win you matches —
+dominating the powerplay does.
+
+QUESTION 3: Who are the top performers (2020-2024)?
+----------------------------------------------------
+TOP 5 BATTERS by runs:
+  1. F du Plessis   — 2718 runs
+  2. Shubman Gill   — 2681 runs
+  3. KL Rahul       — 2608 runs
+  4. V Kohli        — 2589 runs
+  5. RD Gaikwad     — 2380 runs
+
+TOP 5 BOWLERS by wickets:
+  1. YS Chahal       — 104 wickets
+  2. Rashid Khan     — 92 wickets
+  3. HV Patel        — 92 wickets
+  4. K Rabada        — 84 wickets
+  5. Mohammed Shami  — 82 wickets
+
+ONE THING THAT GENUINELY SURPRISED ME:
+---------------------------------------
+Losing teams outscore winning teams in death overs —
+it's the powerplay, not the final slog, that separates
+winners from losers in modern IPL cricket.
+
+=============================================================
